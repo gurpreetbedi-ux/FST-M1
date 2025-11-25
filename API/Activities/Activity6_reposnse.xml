@@ -1,0 +1,19 @@
+<IpWhoisResponse>
+  <ip>150.210.45.150</ip>
+  <type>ipv4</type>
+  <continent>North America</continent>
+  <continent_code>NA</continent_code>
+  <country>United States</country>
+  <country_code>US</country_code>
+  <country_code_iso3>USA</country_code_iso3>
+  <country_capital>Washington</country_capital>
+  <country_tld>.us</country_tld>
+  <state_prov>New York</state_prov>
+  <city>New York</city>
+  <latitude>40.7128</latitude>
+  <longitude>-74.0060</longitude>
+  <time_zone>America/New_York</time_zone>
+  <utc_offset>-04:00</utc_offset>
+  <currency>USD</currency>
+  <flag>https://cdn.ipwhois.io/flags/us.svg</flag>
+</IpWhoisResponse>

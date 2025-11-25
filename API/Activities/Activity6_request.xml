@@ -1,0 +1,7 @@
+<Request>
+  <Method>GET</Method>
+  <Endpoint>https://ipwhois.io/json/{ip}</Endpoint>
+  <Example>
+    <Url>https://ipwhois.io/json/150.210.45.150</Url>
+  </Example>
+</Request>

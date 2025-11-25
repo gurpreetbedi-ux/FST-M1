@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Request>
+    <Method>GET</Method>
+    <Endpoint>http://ipwhois.app/json/{IP}</Endpoint>
+    <Description>
+        This REST request retrieves location details for the given IP address.
+        The value {IP} is supplied from the Excel data source in Activity 5.
+    </Description>
+</Request>

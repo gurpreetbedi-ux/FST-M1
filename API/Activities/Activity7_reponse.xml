@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<IpWhoisResponse>
+    <ip>150.210.45.150</ip>
+    <success>true</success>
+    <type>ipv4</type>
+    <continent>North America</continent>
+    <continent_code>NA</continent_code>
+    <country>United States</country>
+    <country_code>US</country_code>
+    <country_code_iso3>USA</country_code_iso3>
+    <country_capital>Washington</country_capital>
+    <country_tld>.us</country_tld>
+    <state_prov>New York</state_prov>
+    <city>New York</city>
+    <latitude>40.7128</latitude>
+    <longitude>-74.0060</longitude>
+    <isp>Branch Communications</isp>
+    <timezone>America/New_York</timezone>
+    <utc_offset>-04:00</utc_offset>
+    <flag>https://cdn.ipwhois.io/flags/us.svg</flag>
+</IpWhoisResponse>
