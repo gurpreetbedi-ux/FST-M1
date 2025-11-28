@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Fault xmlns="https://petstore.swagger.io/v2/user">
+   <code>405</code>
+   <type>unknown</type>
+   <message>no data</message>
+</Fault>
